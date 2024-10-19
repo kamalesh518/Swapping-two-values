@@ -1,4 +1,6 @@
-# Swapping-two-values
+# Swapping-two-values:
+## Name:kamalesh y
+## reg no: 24004024
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -17,7 +19,22 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+### Step 6: 
+End the program
 ## PROGRAM:
+```
+# Devloped by: y.kamalesh
+# register no: 24004024
+a=int(input())
+b=int(input())
+c=int()
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
+```
+## OUTPUT:
+![Screenshot 2024-10-19 044900](https://github.com/user-attachments/assets/ff43dbc5-8233-4950-a658-7caef51b1d40)
 
 
 
